@@ -21,3 +21,8 @@ body {
   z-index: 9999;
   box-shadow: 3px 3px -8px 3px #ddd;
 }
+
+.body{
+  width: 45;
+  height: 45;
+}
